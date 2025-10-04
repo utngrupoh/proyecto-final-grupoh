@@ -10,11 +10,6 @@ El objetivo es **predecir la baja de clientes (churn)** en una empresa de teleco
 Desarrollar un modelo de **clasificación supervisada** que estime la probabilidad de baja de un cliente y permita a la empresa **priorizar acciones de retención**.  
 Se implementaron métricas técnicas (ROC-AUC, PR-AUC, F1, Recall) y de negocio (Top-N, ROI proxy).
 
----
-
-## Estructura del repositorio
-
-
 
 ---
 
