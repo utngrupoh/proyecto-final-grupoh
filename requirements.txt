@@ -1,0 +1,23 @@
+# Core
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.4
+joblib>=1.3
+
+# Modelos usados
+xgboost>=2.0
+
+# Interpretabilidad
+shap>=0.44
+
+# Visualización
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.29
+
+# (Opcional pero útil si manejan clases desbalanceadas)
+imbalanced-learn>=0.12
