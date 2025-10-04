@@ -26,7 +26,7 @@ Se implementaron métricas técnicas (ROC-AUC, PR-AUC, F1, Recall) y de negocio 
 
 1. **EDA y limpieza**: tratamiento de valores faltantes, tipos de datos y unificación de categorías.  
 2. **Preprocesamiento**: pipelines con imputación, escalado, codificación categórica y features de negocio (`services_count`, `tenure_band`, etc.).  
-3. **Modelado**: Logistic Regression, Decision Tree, Random Forest, XGBoost.  
+3. **Modelado**: Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, Naive Bayes.  
 4. **Evaluación**: accuracy, precision, recall, F1, ROC-AUC, PR-AUC.  
 5. **Interpretabilidad**: SHAP values.  
 
