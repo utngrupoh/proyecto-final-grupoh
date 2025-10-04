@@ -35,7 +35,7 @@ Se implementaron métricas técnicas (ROC-AUC, PR-AUC, F1, Recall) y de negocio 
 ## Resultados
 
 - Modelo final: **Regresión Logística**  
-- Métricas (holdout, umbral calibrado ≈ 0,599):  
+- Métricas:  
   - ROC-AUC ≈ 0,862   
   - Precisión ≈ 0,687  
   - Recall ≈ 0,6
